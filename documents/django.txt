@@ -1,0 +1,7 @@
+Django is a high-level Python web framework.
+It provides tools for building secure and scalable
+web applications.
+
+Django REST Framework is used to build REST APIs.
+It provides serializers, authentication, permissions,
+pagination and other API development features.

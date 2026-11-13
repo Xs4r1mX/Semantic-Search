@@ -1,0 +1,7 @@
+Celery is a distributed task queue for Python.
+
+It allows applications to execute background tasks
+asynchronously.
+
+It is commonly integrated with Django and Redis
+to process emails, notifications and scheduled jobs.

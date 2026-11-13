@@ -1,0 +1,7 @@
+Redis is an in-memory data store.
+
+It is commonly used for caching, session management,
+distributed locks and temporary data storage.
+
+Redis can improve application performance by reducing
+repeated database queries.
